@@ -13,6 +13,9 @@ Mekanisme game ini sebagai berikut :
 1. ketika pertama kali game dijalankan karakter player akan berada ditengah layar.
 2. kecepatan gerak meteor dan enemy dirandom sekaligus posisi awal spawn.
 
+Tedapat 2 NPC dalam game ini yaitu :
+UFO dan Batu Meteor
+
 Nama Kelompok:
 
 Mochamad Mustakim         4210161003.
