@@ -14,7 +14,9 @@ Mekanisme game ini sebagai berikut :
 2. kecepatan gerak meteor dan enemy dirandom sekaligus posisi awal spawn.
 
 Tedapat 2 NPC dalam game ini yaitu :
-UFO dan Batu Meteor
+UFO dan Batu Meteor.
+
+Tujuan dari game ini adalah memeperlohe score setinggi - tingginya.
 
 Nama Kelompok:
 
