@@ -14,7 +14,10 @@ Mekanisme game ini sebagai berikut :
 2. kecepatan gerak meteor dan enemy dirandom sekaligus posisi awal spawn.
 
 Nama Kelompok:
+
 Mochamad Mustakim         4210161003.
+
 Muchamad Irsad Maulana    4210161005.
+
 Achmad Robith F           4210161027.
 
